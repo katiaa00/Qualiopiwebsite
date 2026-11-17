@@ -18,7 +18,7 @@
   <header class="site-header">
     <div class="container header-inner">
       <a class="brand" href="index.html" aria-label="${S.orgName} – Accueil">
-        <img src="assets/logo-organisme.svg" alt="" width="150" height="45">
+        <img src="assets/logo-organisme.png" alt="" width="95" height="44">
         <span class="brand-name" data-org></span>
       </a>
       <button class="burger" aria-expanded="false" aria-controls="main-nav" aria-label="Ouvrir le menu">

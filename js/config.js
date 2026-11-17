@@ -5,9 +5,9 @@
    convertit automatiquement en lecture seule.
    ========================================================== */
 window.SITE = {
-  orgName: "[NOM DE L'ORGANISME]",
-  formationTitle: "[TITRE DE LA FORMATION]",
-  email: "contact@exemple.fr", // TODO: e-mail réel
+  orgName: "OB1 ENTREPRISES",
+  formationTitle: "Structurer et développer sa communication professionnelle sur les réseaux sociaux",
+  email: "ob1entreprises@gmail.com", // e-mail du formateur (réponse sous 48 h)
   docs: {
     programme:     "https://docs.google.com/document/d/1O0LKQwLGHypMVMc1dhYciAIjdPtDZcVF/edit",
     cgv:           "https://docs.google.com/document/d/1GLMKkQtdoOGlGvvtiTTQ4EPpE0DnxfcU/edit",
