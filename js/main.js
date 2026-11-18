@@ -38,7 +38,7 @@
   <footer class="site-footer">
     <div class="container footer-inner">
       <div class="footer-id">
-        <img src="assets/qualiopi-logo.svg" alt="Emplacement du logo Qualiopi" width="160" height="60" loading="lazy">
+        
         <p class="footer-name" data-org></p>
       </div>
       <nav aria-label="Liens utiles">
